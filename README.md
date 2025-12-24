@@ -7,18 +7,17 @@ The goal of this project is to perform data analytics on Uber data using various
 ## Architecture 
 <img src="architecture.png">
 
-## Technology Stack
-Programming Language
+# Programming Language
 
 Python (PySpark)
 
-Cloud & Data Platform
+# Cloud & Data Platform
 
 AWS S3 – Raw and processed data storage
 
 Databricks Community Edition – Managed Apache Spark platform
 
-Analytics & Visualization
+# Analytics & Visualization
 
 Databricks SQL – Analytical querying
 
