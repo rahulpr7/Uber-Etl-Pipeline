@@ -1,4 +1,4 @@
-# Uber Data Analytics | Modern Data Engineering GCP Project
+# Uber Data Analytics | Modern Data Engineering Project
 
 ## Introduction
 
@@ -7,18 +7,22 @@ The goal of this project is to perform data analytics on Uber data using various
 ## Architecture 
 <img src="architecture.png">
 
-## Technology Used
-- Programming Language - Python
+## Technology Stack
+Programming Language
 
-Google Cloud Platform
-1. Google Storage
-2. Compute Instance 
-3. BigQuery
-4. Looker Studio
+Python (PySpark)
 
-Modern Data Pipeine Tool - https://www.mage.ai/
+Cloud & Data Platform
 
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
+AWS S3 – Raw and processed data storage
+
+Databricks Community Edition – Managed Apache Spark platform
+
+Analytics & Visualization
+
+Databricks SQL – Analytical querying
+
+Power BI – Interactive dashboards and reporting
 
 
 ## Dataset Used
@@ -33,4 +37,3 @@ More info about dataset can be found here:
 
 ## Data Model
 <img src="data_model.jpeg">
-
